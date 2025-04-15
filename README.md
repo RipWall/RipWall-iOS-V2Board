@@ -41,7 +41,7 @@
 
 
 
-<ul><li><a rel="noreferrer noopener" href="https://t.me/ripwall" target="_blank"><lab draggable="false" class="emoji" alt="✈️"> Telegram 群组</a></li><li><a rel="noreferrer noopener" href="https://t.me/qianglieapptongzhi" target="_blank"><lab draggable="false" class="emoji" alt="✈️"> Telegram 通知</a></li><li><a rel="noreferrer noopener" href="http://docs.ripwall.us" target="_blank"><lab draggable="false" class="emoji" alt="✈️"> 介绍文档</a></li></ul>
+<ul><li></li><li><a rel="noreferrer noopener" href="https://t.me/qianglieapptongzhi" target="_blank"><lab draggable="false" class="emoji" alt="✈️"> Telegram 通知</a></li><li</li></ul>
 						<div class="clear"></div>
 					</div><!--/.entry-->
 				</div>
